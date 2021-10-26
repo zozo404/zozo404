@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm zozo404/zozoy</h1>
 <h3 align="center">Passionate about web development</h3>
 
-- 👨‍💻 I recently made my site [zozo.fr](zozo.fr)
+- 👨‍💻 I recently made my site [zozoy.fr](zozoy.fr)
 
 - 💬 Ask me about **21**
 
