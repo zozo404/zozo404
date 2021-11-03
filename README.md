@@ -3,7 +3,7 @@
 
 - 👨‍💻 I recently made my site [zozoy.fr](zozoy.fr)
 
-- 💬 I'm**20**years old
+- 💬 I'm **20** years old
 
 - 📫 How to reach me **enzocsio66@gmail.com**
 
