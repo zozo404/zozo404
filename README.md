@@ -3,7 +3,7 @@
 
 - 👨‍💻 I recently made my site [zozoy.fr](zozoy.fr)
 
-- 💬 Ask me about **21**
+- 💬 Ask me about **20**
 
 - 📫 How to reach me **enzocsio66@gmail.com**
 
