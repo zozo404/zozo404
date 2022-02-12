@@ -3,9 +3,9 @@
 
 - 👨‍💻 I recently worked on [Site-Osengo-Fake](https://github.com/zozo404/site-Osengo)
 
-- 🌱 I am currently in training at **Osengo by AFORMAC**
+- 🌱 I am currently in training at **Osengo by AFORMAC**(https://osengo.fr/)
 
-- 📄 Know about my experiences [I did a BTS SIO without having it but I learned a lot of knowledge in the field of web development](I did a BTS SIO without having it but I learned a lot of knowledge in the field of web development)
+- 📄 Know about my experiences [I did a BTS SIO without having it but I learned a lot of knowledge in the field of web development]
 
 - ⚡ Fun fact **I like sports, video games and traveling**
 
