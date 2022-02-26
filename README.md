@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm enzo - zozoy</h1>
 <h3 align="center">A passionate web developer from France</h3>
 
-- 👨‍💻 I recently worked on [Site-Osengo-Fake](https://github.com/zozo404/site-Osengo)
+- :construction: | Currently, I am developing a new personal website
 
-- 🌱 I am currently in training at **Osengo by AFORMAC** https://osengo.fr/
+- 👨‍💻 | I recently worked on [Site-Osengo-Fake](https://github.com/zozo404/site-Osengo)
 
-- 📄 Know about my experiences I did a BTS SIO without having it but I learned a lot of knowledge in the field of web development
+- 🌱 | I am currently in training at **Osengo by AFORMAC** https://osengo.fr/
 
-- ⚡ Fun fact **I like sports, video games and traveling**
+- 📄 | Know about my experiences I did a BTS SIO without having it but I learned a lot of knowledge in the field of web development
+
+- ⚡ | Fun fact **I like sports, video games and traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
