@@ -5,6 +5,8 @@
 
 - :rocket: | Recently, I finished my personal website
 
+- :sparkles: | I also contributed to redo the site **VR-CAFE**: https://vr-cafe.fr/
+
 - 🌱 | I am currently in training at **Osengo by AFORMAC** https://osengo.fr/
 
 - 📄 | Know about my experiences I did a BTS SIO without having it but I learned a lot of knowledge in the field of web development
