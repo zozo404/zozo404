@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm enzo - zozoy</h1>
 <h3 align="center">A passionate web developer from France</h3>
 
-- :construction: | Currently I am making a new site CV in Nuxt 2
 
 - :rocket: | Recently, I finished my personal website
 
