@@ -18,8 +18,8 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zozo404&show_icons=true&theme=radical)](https://github.com/zozo404?tab=repositories) <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zozo404&show_icons=true&theme=radical) <br>
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zozo404&show_icons=true&theme=radical)](https://github.com/zozo404?tab=repositories) <br>
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zozo404&show_icons=true&theme=radical) <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zozo404&style=flat-square) <br>
 
