@@ -2,11 +2,11 @@
 <h3 align="center">A passionate web developer from France</h3>
 
 
-- :rocket: | Recently, I finished my personal website
+- :rocket: | Recently, I just finished my new site **Weboops** [https://weboops.netlify.app/](https://weboops.netlify.app/)
 
 - :sparkles: | I also contributed to redo the site **VR-CAFE**: https://vr-cafe.fr/
 
-- 🌱 | I just finished my training at **Osengo by AFORMAC** https://osengo.fr/
+- 🌱 | You can see my personal website [https://zozoy.fr](https://zozoy.fr)
 
 - 📄 | Know about my experiences I did a BTS SIO without having it but I learned a lot of knowledge in the field of web development
 
